@@ -2,7 +2,7 @@
 
 # 👋 About Me
 
-I graduated in **Business Information Technology**, equipped with a solid foundation in statistics, critical thinking, and a strong passion for solving real-world problems through data-driven methodologies.
+I graduated in **Data Science**, equipped with a solid foundation in statistics, critical thinking, and a strong passion for solving real-world problems through data-driven methodologies.
 
 I'm deeply fascinated by how data can uncover hidden insights and drive meaningful decisions. My career goal is to become a **Data Analyst** or **Business Intelligence Specialist**, while continuously learning and expanding into related domains.
 
