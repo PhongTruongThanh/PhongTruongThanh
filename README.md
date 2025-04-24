@@ -2,7 +2,7 @@
 
 ## 👋 **About Me**
 
-I graduated with a strong foundation in **Data Science** and a passion for solving real-world problems through data-driven methodologies. I am deeply fascinated by how data can uncover hidden insights and drive meaningful decisions. My career goal is to become a **Data Analyst** or **Business Intelligence Specialist**, while continuously learning and expanding into related domains.
+I graduated with a strong foundation in **Data Science** and a passion for solving real-world problems through data-driven methodologies. I am deeply fascinated by how data can uncover hidden insights and drive meaningful decisions. My career goal is to become a **Data Analyst**, **Business Intelligence Specialist** or **Business Analyst**, while continuously learning and expanding into related domains.
 
 *"Every opportunity has a difficulty, and every difficulty holds an opportunity."*
 
