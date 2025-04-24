@@ -19,6 +19,7 @@ I graduated with a strong foundation in **Data Science** and a passion for solvi
 - **Microsoft Power BI Desktop for Business Intelligence** - Udemy  
 - **Data Engineering Essentials using SQL, Python, and PySpark** - Udemy
 
+  [Detail](https://drive.google.com/drive/folders/1ZOtUX6vscOyqkvUxzcomkXNxyG2kC1Q6?usp=sharing)
 ## **How to reach me**
 
 
