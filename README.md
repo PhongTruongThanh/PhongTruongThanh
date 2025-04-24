@@ -19,9 +19,8 @@ I graduated with a strong foundation in **Data Science** and a passion for solvi
 - **Microsoft Power BI Desktop for Business Intelligence** - Udemy  
 - **Data Engineering Essentials using SQL, Python, and PySpark** - Udemy
 
-## **Contact Me**
+## **How to reach me**
 
-Feel free to reach out to me through the following channels:
 
 - **Email**: [phongtruong.contact@gmail.com](mailto:phongtruong.contact@gmail.com)
 - **LinkedIn**: [BaiFeng](https://www.linkedin.com/in/phong-truong-itba/)
